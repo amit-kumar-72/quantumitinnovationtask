@@ -1,6 +1,7 @@
 # Full-Stack App (React + Node.js + MongoDB)
 
 This is a full-stack web application using React for the frontend, Node.js/Express for the backend, and MongoDB for data storage.
+In this project majore focus on The system allows users to register, log in, and view a protected static table with user information
 
 ---
 
@@ -14,11 +15,24 @@ This is a full-stack web application using React for the frontend, Node.js/Expre
 ## 🧰 Tech Stack
 
 - **Frontend**: React
+- **Icons**:React-icon
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Package Manager**: npm
+- **Authentication**: JSON Web Token (JWT)
+- **Storage**: LocalStorage
 
+
+#Features of this projects
+User Registration
+User Login
+Protected Route >> datatable
+JWT Authentication
+LocalStorage for user session management
+Responsive layout
 ---
+
+
 
 ## ⚙️ Setup & Installation
 
