@@ -55,3 +55,8 @@ in the  .env file
 
 MONGO_URI=your_mongodb_connection_string
 PORT=8000
+
+# project mges for overview
+![Project Overview](./assets/overview.png)
+![Project Overview](./assets/overview2.png)
+![Project Overview](./assets/overview3.png)
